@@ -17,3 +17,5 @@ app.listen(PORT, handleListening);
 
 
 /* 변경이 되어지는지 봅시다. */
+
+/* 상호 작용은 어떻게 돌아가는지 봅시다 ㅎㅎㅎ*/
